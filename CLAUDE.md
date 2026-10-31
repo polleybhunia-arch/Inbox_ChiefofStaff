@@ -14,3 +14,5 @@ My email: x24polleyb@iima.ac.in. My time zone: Asia/Kolkata (IST).
 
 ## My agent rules
 
+- When an IIMA alum (an @iima.ac.in sender, or a post to an IIMA alumni list) shares a job and asks for resumes, treat it as "Needs a reply", not Flagged. Draft a short reply in my voice expressing interest in the role, addressed to the person the email says should receive resumes (or to the sender if none is named), in the same thread. Do not attach anything: in the report, remind me to attach my resume and check the recipient before I press Send.
+
